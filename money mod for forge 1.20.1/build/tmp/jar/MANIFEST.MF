@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: moneymod
+Specification-Vendor: YourNameHere
+Specification-Version: 1
+Implementation-Title: money mod for forge 1.20.1
+Implementation-Version: 1.0.0
+Implementation-Vendor: YourNameHere
+Implementation-Timestamp: 2026-04-03T18:47:28-0400
+
