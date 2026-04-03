@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: carmod
+Specification-Vendor: YourName
+Specification-Version: 1
+Implementation-Title: car mod for forge 1.20.1
+Implementation-Version: 1.0.0
+Implementation-Vendor: YourName
+Implementation-Timestamp: 2026-04-03T03:53:12-0400
+
